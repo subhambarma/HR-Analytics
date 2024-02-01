@@ -1,3 +1,10 @@
+
+![Smart boy project](https://github.com/subhambarma/HR-Analytics/assets/42974892/bd37993e-b446-4991-867f-d8dc8c008cd6)
+
+![data](https://github.com/subhambarma/HR-Analytics/assets/42974892/5344b1b1-c6b4-4242-b99e-81ac23c37233)
+
+
+
 Title: HR Analytics Insights Dashboard
 
 Unlock the power of your workforce data with our comprehensive HR Analytics Insights Dashboard. Meticulously crafted through a blend of advanced data analytics, Power BI expertise, and robust data management, this dashboard provides a holistic view of your human resources landscape, empowering decision-makers with actionable insights.
